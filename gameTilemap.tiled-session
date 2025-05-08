@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Assets/Tiled/TinyCityMap.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Assets/TileMapGame/Tilemap.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Assets/Tiled/TinyCityMap.tmx": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": -121,
+                "y": -95.33333333333331
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/49145096/Documents/comp1151prac-tilemapgame-eloise-mq/kenney_tiny-town/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "Assets/TileMapGame/Tilemap.tsx",
+        "Assets/Tiled/TinyCityMap.tmx"
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "Assets/TileMapGame/Tilemap.tsx",
+        "Assets/Tiled/TinyCityMap.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
